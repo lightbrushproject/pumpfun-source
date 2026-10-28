@@ -1,0 +1,40 @@
+{
+ "provider": "https://api.mainnet-beta.solana.com",
+ "commitment": "finalized",
+ "read_date_utc": "2026-10-28",
+ "program_account": {
+  "address": "RLAYHr9TRFcKB2ubYQhspcnXiaGpaVzNQvHytt47RZu",
+  "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
+  "executable": true,
+  "space": 36,
+  "lamports": 1141440,
+  "programdata": "5QH8Ay11KgpRMyECYofHwAr6SzfFEGkbtPoM6eXv8V7B",
+  "read_context_slot": 462524450
+ },
+ "programdata_account": {
+  "address": "5QH8Ay11KgpRMyECYofHwAr6SzfFEGkbtPoM6eXv8V7B",
+  "owner": "BPFLoaderUpgradeab1e11111111111111111111111",
+  "space": 830493,
+  "lamports": 5781122160,
+  "header": {
+   "variant_tag": 3,
+   "last_deploy_slot": 415422992,
+   "upgrade_authority": "9rmqZkmn3Bzd4jAL5uw3TXCgWvbHwH1VyW6fdFtimASu",
+   "read_context_slot": 462524660
+  },
+  "payload": {
+   "bytes": 830448,
+   "sha256": "367f07a62e3f74d358187d175cf3228848e81a56c781a9a75b9df7fed1268563",
+   "elf_extent_bytes": 818280,
+   "elf_extent_sha256": "56d81ec64a0ba070d3d23f3c1547b31d659e85716dfa2198ec4b0ce6cd355333",
+   "tail_bytes": 12168,
+   "tail_all_zero": true
+  }
+ },
+ "reference_values_from_repo": {
+  "scope_table_last_deployment_slot": 415422992,
+  "scope_table_payload_sha256": "367f07a62e3f74d358187d175cf3228848e81a56c781a9a75b9df7fed1268563",
+  "retained_original_elf_extent_sha256": "56d81ec64a0ba070d3d23f3c1547b31d659e85716dfa2198ec4b0ce6cd355333",
+  "captured_payload_sha256": "367f07a62e3f74d358187d175cf3228848e81a56c781a9a75b9df7fed1268563"
+ }
+}

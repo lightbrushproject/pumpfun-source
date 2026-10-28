@@ -1,0 +1,41 @@
+{
+ "package": "research/relay-provenance",
+ "pin": "3719d910d297ad62497e2ef1b12e263d2059f2ae",
+ "files": [
+  {
+   "path": "README.md",
+   "bytes": 8899,
+   "sha256": "1df7ad6aef17788ecf125d9a3aaeb75e20ea8b2136b0ea5af974d3df41c28e81"
+  },
+  {
+   "path": "evidence/chain_state.json",
+   "bytes": 1473,
+   "sha256": "945102b2760eb73c75feb67ba5a7daa66c35d15356a518c5dcc85f4a75d7353c"
+  },
+  {
+   "path": "evidence/history.json",
+   "bytes": 5577,
+   "sha256": "2baf624439079ccd55063f0e66c4a8da93d9a15f9f89e429a669b9c18f6dc7d7"
+  },
+  {
+   "path": "evidence/refresh_chain.py",
+   "bytes": 2695,
+   "sha256": "c2c95173abc3a5bdc592a94c30903fc1d4d5f92abff596382d81160d9a74c634"
+  },
+  {
+   "path": "evidence/search_log.json",
+   "bytes": 3055,
+   "sha256": "a67c62b7e95844d1c22badc0d2acc229a9c3319b0a12c088fb735a32a3b1ad86"
+  },
+  {
+   "path": "register.json",
+   "bytes": 5253,
+   "sha256": "7b28c1e730136c4bc1dc1034c84e479cb169181b699c00c10c8767a27a9c9f96"
+  },
+  {
+   "path": "verify.py",
+   "bytes": 6871,
+   "sha256": "e8f49cb3db8d1bdd32405ab36cdc6182e1abb930ee7f8183a7406b4216766ef8"
+  }
+ ]
+}
